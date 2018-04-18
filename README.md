@@ -1,5 +1,5 @@
 # Laboratory of Introduction to Computer Science I
-SCC0222
+[SCC0222](https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=SCC0222)
 
 Institute of Mathematical and Computer Sciences
 
