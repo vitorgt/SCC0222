@@ -1,5 +1,5 @@
-# SCC0222
-Laboratory of Introduction to Computer Science I
+# Laboratory of Introduction to Computer Science I
+SCC0222
 
 Institute of Mathematical and Computer Sciences
 
